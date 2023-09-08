@@ -11,6 +11,6 @@ To run this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/speech-emotion-recognition.git
-   cd speech-emotion-recognition
+   git clone https://github.com/papaocus/Blipper_Assigment.git
+   cd Blipper_Assigment
 pip install -r requirements.txt
